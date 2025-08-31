@@ -9,8 +9,9 @@ A simple Tic Tac Toe game built with React. Play against a friend on the same de
 - Highlights the winner
 
 ## Screenshot
-![Tic Tac Toe Screenshot](./src/components/Assets/tictactoe.png)
-![Tic Tac Toe Screenshot](./src/components/Assets/tictactoe2.png)
+![Tic Tac Toe Screenshot](https://raw.githubusercontent.com/nushaaa/Tic-Tac-Toe/main/src/components/Assets/tictactoe.png)
+
+![Tic Tac Toe Screenshot 2](https://raw.githubusercontent.com/nushaaa/Tic-Tac-Toe/main/src/components/Assets/tictactoe2.png)
 
 
 ## Built With
