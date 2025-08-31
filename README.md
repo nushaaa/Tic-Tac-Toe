@@ -8,6 +8,10 @@ A simple Tic Tac Toe game built with React. Play against a friend on the same de
 - Tracks turns automatically
 - Highlights the winner
 
+## Screenshot
+![Tic Tac Toe Screenshot](./assets/tictactoe.png)
+![Tic Tac Toe Screenshot](./assets/tictactoe2.png)
+
 ## Built With
 - React
 - JavaScript
